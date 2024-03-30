@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React from 'react';
 import {SafeAreaView, StyleSheet, View} from 'react-native';
 import Home from './src/screens/Home';
